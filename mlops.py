@@ -161,7 +161,7 @@ print("MODEL ACCURACY :" , ac)
 # In[43]:
 
 
-f = open("a.txt" , "w+")
+f = open("/root/ml/a.txt" , "w+")
 
 
 # In[44]:
